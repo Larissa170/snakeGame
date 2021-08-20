@@ -1,9 +1,18 @@
 body {
-  height: 95vh;
-  width: 95vh;
+	
+  height: 100%;
+  width: 100%;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;  
   flex-direction: column;
-  color: green;
+  color: purple;
+  
+}
+
+canvas {
+	
+	border: 2px solid purple;
+	border-radius: 20px;
+	
 }
